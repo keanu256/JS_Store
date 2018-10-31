@@ -12,6 +12,10 @@ $(document).ready(function() {
         nextArrow: '<div class="slick-next"><i class="fa fa-chevron-right" aria-hidden="true"></i></div>',
         swipeToSlide: true,
     });
+adadasddsadasdasd
+asd
+asdas
+darkasd
 
     /* Banner Slider 3*/
     $('.banner-slider-style-3').slick({
